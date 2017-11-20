@@ -1,0 +1,1357 @@
+Inicio analizador subregulador 0
+08:55:43:Itinerario 2 Detector de presencia
+08:55:44:Itinerario 2 Transicion entrada
+08:55:47:Itinerario 2 Transicion entrada
+08:55:50:Itinerario 2 Fase de Metro Tiempo llegada 0:00:07
+08:56:01:Itinerario 2 Transicion salida
+08:56:04:Itinerario 2 Transicion salida
+08:56:07:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:17
+ANALISIS:[OK]Entrada por detector de presencia
+
+08:57:05:Itinerario 1 Detector de aproximacion
+08:57:06:Itinerario 1 Transicion entrada
+08:57:09:Itinerario 1 Transicion entrada
+08:57:12:Itinerario 1 Fase de Metro Tiempo llegada 0:00:07
+08:57:32:Itinerario 1 Transicion salida
+08:57:35:Itinerario 1 Transicion salida
+08:57:38:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:26
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+08:07:20:Itinerario 2 Detector de aproximacion
+08:07:41:Itinerario 2 Transicion entrada
+08:07:44:Itinerario 2 Transicion entrada
+08:07:47:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+08:08:05:Itinerario 2 Transicion salida
+08:08:08:Itinerario 2 Transicion salida
+08:08:11:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:24
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+08:08:56:Itinerario 1 Detector de aproximacion
+08:09:01:Itinerario 1 Transicion entrada
+08:09:04:Itinerario 1 Transicion entrada
+08:09:07:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+08:09:22:Itinerario 1 Transicion salida
+08:09:25:Itinerario 1 Transicion salida
+08:09:28:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:21
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+08:17:15:Itinerario 2 Detector de aproximacion
+08:17:36:Itinerario 2 Transicion entrada
+08:17:39:Itinerario 2 Transicion entrada
+08:17:42:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+08:18:06:Itinerario 2 Transicion salida
+08:18:09:Itinerario 2 Transicion salida
+08:18:12:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:30
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+08:21:18:Itinerario 1 Detector de aproximacion
+08:21:23:Itinerario 1 Transicion entrada
+08:21:26:Itinerario 1 Transicion entrada
+08:21:29:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+08:21:43:Itinerario 1 Transicion salida
+08:21:46:Itinerario 1 Transicion salida
+08:21:49:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:20
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+08:29:41:Itinerario 2 Detector de aproximacion
+08:30:02:Itinerario 2 Transicion entrada
+08:30:05:Itinerario 2 Transicion entrada
+08:30:08:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+08:30:27:Itinerario 2 Transicion salida
+08:30:30:Itinerario 2 Transicion salida
+08:30:33:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:25
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+08:32:50:Itinerario 1 Detector de aproximacion
+08:32:55:Itinerario 1 Transicion entrada
+08:32:58:Itinerario 1 Transicion entrada
+08:33:01:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+08:33:18:Itinerario 1 Transicion salida
+08:33:21:Itinerario 1 Transicion salida
+08:33:24:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:23
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+08:40:33:Itinerario 2 Detector de aproximacion
+08:40:54:Itinerario 2 Transicion entrada
+08:40:57:Itinerario 2 Transicion entrada
+08:41:00:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+08:41:21:Itinerario 2 Transicion salida
+08:41:24:Itinerario 2 Transicion salida
+08:41:27:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:27
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+08:45:27:Itinerario 1 Detector de aproximacion
+08:45:32:Itinerario 1 Transicion entrada
+08:45:35:Itinerario 1 Transicion entrada
+08:45:38:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+08:45:51:Itinerario 1 Transicion salida
+08:45:54:Itinerario 1 Transicion salida
+08:45:57:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:19
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+08:52:20:Itinerario 2 Detector de aproximacion
+08:52:41:Itinerario 2 Transicion entrada
+08:52:44:Itinerario 2 Transicion entrada
+08:52:47:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+08:53:07:Itinerario 2 Transicion salida
+08:53:10:Itinerario 2 Transicion salida
+08:53:13:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:26
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+08:57:23:Itinerario 1 Detector de aproximacion
+08:57:28:Itinerario 1 Transicion entrada
+08:57:31:Itinerario 1 Transicion entrada
+08:57:34:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+08:57:48:Itinerario 1 Transicion salida
+08:57:51:Itinerario 1 Transicion salida
+08:57:54:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:20
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+09:06:32:Itinerario 2 Detector de aproximacion
+09:06:53:Itinerario 2 Transicion entrada
+09:06:56:Itinerario 2 Transicion entrada
+09:06:59:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+09:07:21:Itinerario 2 Transicion salida
+09:07:24:Itinerario 2 Transicion salida
+09:07:27:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:28
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+09:09:27:Itinerario 1 Detector de aproximacion
+09:09:32:Itinerario 1 Transicion entrada
+09:09:35:Itinerario 1 Transicion entrada
+09:09:38:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+09:09:52:Itinerario 1 Transicion salida
+09:09:55:Itinerario 1 Transicion salida
+09:09:58:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:20
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+09:19:08:Itinerario 2 Detector de aproximacion
+09:19:29:Itinerario 2 Transicion entrada
+09:19:32:Itinerario 2 Transicion entrada
+09:19:35:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+09:19:52:Itinerario 2 Transicion salida
+09:19:55:Itinerario 2 Transicion salida
+09:19:58:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:23
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+09:20:54:Itinerario 1 Detector de aproximacion
+09:20:55:Itinerario 1 Transicion entrada
+09:20:58:Itinerario 1 Transicion entrada
+09:21:01:Itinerario 1 Fase de Metro Tiempo llegada 0:00:07
+09:21:19:Itinerario 1 Transicion salida
+09:21:22:Itinerario 1 Transicion salida
+09:21:25:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:24
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+09:31:05:Itinerario 2 Detector de aproximacion
+09:31:26:Itinerario 2 Transicion entrada
+09:31:29:Itinerario 2 Transicion entrada
+09:31:32:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+09:31:51:Itinerario 2 Transicion salida
+09:31:54:Itinerario 2 Transicion salida
+09:31:57:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:25
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+09:33:06:Itinerario 1 Detector de aproximacion
+09:33:11:Itinerario 1 Transicion entrada
+09:33:14:Itinerario 1 Transicion entrada
+09:33:17:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+09:33:32:Itinerario 1 Transicion salida
+09:33:35:Itinerario 1 Transicion salida
+09:33:38:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:21
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+09:42:49:Itinerario 2 Detector de aproximacion
+09:43:10:Itinerario 2 Transicion entrada
+09:43:13:Itinerario 2 Transicion entrada
+09:43:16:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+09:43:31:Itinerario 2 Transicion salida
+09:43:34:Itinerario 2 Transicion salida
+09:43:37:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:21
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+09:45:32:Itinerario 1 Detector de aproximacion
+09:45:37:Itinerario 1 Transicion entrada
+09:45:40:Itinerario 1 Transicion entrada
+09:45:43:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+09:45:56:Itinerario 1 Transicion salida
+09:45:59:Itinerario 1 Transicion salida
+09:46:02:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:19
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+09:54:44:Itinerario 2 Detector de aproximacion
+09:55:05:Itinerario 2 Transicion entrada
+09:55:08:Itinerario 2 Transicion entrada
+09:55:11:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+09:55:30:Itinerario 2 Transicion salida
+09:55:33:Itinerario 2 Transicion salida
+09:55:36:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:25
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+09:56:57:Itinerario 1 Detector de aproximacion
+09:57:02:Itinerario 1 Transicion entrada
+09:57:05:Itinerario 1 Transicion entrada
+09:57:08:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+09:57:23:Itinerario 1 Transicion salida
+09:57:26:Itinerario 1 Transicion salida
+09:57:29:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:21
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+10:08:07:Itinerario 2 Detector de aproximacion
+10:08:28:Itinerario 2 Transicion entrada
+10:08:31:Itinerario 2 Transicion entrada
+10:08:34:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+10:08:53:Itinerario 2 Transicion salida
+10:08:56:Itinerario 2 Transicion salida
+10:08:59:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:25
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+10:09:28:Itinerario 1 Detector de aproximacion
+10:09:29:Itinerario 1 Transicion entrada
+10:09:32:Itinerario 1 Transicion entrada
+10:09:35:Itinerario 1 Fase de Metro Tiempo llegada 0:00:07
+10:09:54:Itinerario 1 Transicion salida
+10:09:57:Itinerario 1 Transicion salida
+10:10:00:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:25
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+10:19:27:Itinerario 2 Detector de aproximacion
+10:19:48:Itinerario 2 Transicion entrada
+10:19:51:Itinerario 2 Transicion entrada
+10:19:54:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+10:20:11:Itinerario 2 Transicion salida
+10:20:14:Itinerario 2 Transicion salida
+10:20:17:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:23
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+10:21:19:Itinerario 1 Detector de aproximacion
+10:21:20:Itinerario 1 Transicion entrada
+10:21:23:Itinerario 1 Transicion entrada
+10:21:26:Itinerario 1 Fase de Metro Tiempo llegada 0:00:07
+10:21:44:Itinerario 1 Transicion salida
+10:21:47:Itinerario 1 Transicion salida
+10:21:50:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:24
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+10:29:43:Itinerario 2 Detector de aproximacion
+10:30:04:Itinerario 2 Transicion entrada
+10:30:07:Itinerario 2 Transicion entrada
+10:30:10:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+10:30:32:Itinerario 2 Transicion salida
+10:30:35:Itinerario 2 Transicion salida
+10:30:38:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:28
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+10:33:12:Itinerario 1 Detector de aproximacion
+10:33:17:Itinerario 1 Transicion entrada
+10:33:20:Itinerario 1 Transicion entrada
+10:33:23:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+10:33:37:Itinerario 1 Transicion salida
+10:33:40:Itinerario 1 Transicion salida
+10:33:43:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:20
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+10:42:54:Itinerario 2 Detector de aproximacion
+10:43:15:Itinerario 2 Transicion entrada
+10:43:18:Itinerario 2 Transicion entrada
+10:43:21:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+10:43:39:Itinerario 2 Transicion salida
+10:43:42:Itinerario 2 Transicion salida
+10:43:45:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:24
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+10:45:01:Itinerario 1 Detector de aproximacion
+10:45:06:Itinerario 1 Transicion entrada
+10:45:09:Itinerario 1 Transicion entrada
+10:45:12:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+10:45:26:Itinerario 1 Transicion salida
+10:45:29:Itinerario 1 Transicion salida
+10:45:32:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:20
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+10:52:24:Itinerario 2 Detector de aproximacion
+10:52:45:Itinerario 2 Transicion entrada
+10:52:48:Itinerario 2 Transicion entrada
+10:52:51:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+10:53:10:Itinerario 2 Transicion salida
+10:53:13:Itinerario 2 Transicion salida
+10:53:16:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:25
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+10:56:56:Itinerario 1 Detector de aproximacion
+10:57:01:Itinerario 1 Transicion entrada
+10:57:04:Itinerario 1 Transicion entrada
+10:57:07:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+10:57:22:Itinerario 1 Transicion salida
+10:57:25:Itinerario 1 Transicion salida
+10:57:28:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:21
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+11:03:37:Itinerario 2 Detector de aproximacion
+11:03:58:Itinerario 2 Transicion entrada
+11:04:01:Itinerario 2 Transicion entrada
+11:04:04:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+11:04:24:Itinerario 2 Transicion salida
+11:04:27:Itinerario 2 Transicion salida
+11:04:30:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:26
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+11:09:08:Itinerario 1 Detector de aproximacion
+11:09:13:Itinerario 1 Transicion entrada
+11:09:16:Itinerario 1 Transicion entrada
+11:09:19:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+11:09:35:Itinerario 1 Transicion salida
+11:09:38:Itinerario 1 Transicion salida
+11:09:41:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:22
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+11:17:22:Itinerario 2 Detector de aproximacion
+11:17:43:Itinerario 2 Transicion entrada
+11:17:46:Itinerario 2 Transicion entrada
+11:17:49:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+11:18:06:Itinerario 2 Transicion salida
+11:18:09:Itinerario 2 Transicion salida
+11:18:12:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:23
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+11:21:10:Itinerario 1 Detector de aproximacion
+11:21:15:Itinerario 1 Transicion entrada
+11:21:18:Itinerario 1 Transicion entrada
+11:21:21:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+11:21:36:Itinerario 1 Transicion salida
+11:21:39:Itinerario 1 Transicion salida
+11:21:42:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:21
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+11:29:04:Itinerario 2 Detector de aproximacion
+11:29:25:Itinerario 2 Transicion entrada
+11:29:28:Itinerario 2 Transicion entrada
+11:29:31:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+11:29:47:Itinerario 2 Transicion salida
+11:29:50:Itinerario 2 Transicion salida
+11:29:53:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:22
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+11:33:02:Itinerario 1 Detector de aproximacion
+11:33:07:Itinerario 1 Transicion entrada
+11:33:10:Itinerario 1 Transicion entrada
+11:33:13:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+11:33:27:Itinerario 1 Transicion salida
+11:33:30:Itinerario 1 Transicion salida
+11:33:33:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:20
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+11:43:02:Itinerario 2 Detector de aproximacion
+11:43:23:Itinerario 2 Transicion entrada
+11:43:26:Itinerario 2 Transicion entrada
+11:43:29:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+11:43:46:Itinerario 2 Transicion salida
+11:43:49:Itinerario 2 Transicion salida
+11:43:52:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:23
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+11:45:42:Itinerario 1 Detector de aproximacion
+11:45:47:Itinerario 1 Transicion entrada
+11:45:50:Itinerario 1 Transicion entrada
+11:45:53:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+11:46:06:Itinerario 1 Transicion salida
+11:46:09:Itinerario 1 Transicion salida
+11:46:12:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:19
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+11:54:56:Itinerario 2 Detector de aproximacion
+11:55:17:Itinerario 2 Transicion entrada
+11:55:20:Itinerario 2 Transicion entrada
+11:55:23:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+11:55:43:Itinerario 2 Transicion salida
+11:55:46:Itinerario 2 Transicion salida
+11:55:49:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:26
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+11:56:50:Itinerario 1 Detector de aproximacion
+11:56:51:Itinerario 1 Transicion entrada
+11:56:54:Itinerario 1 Transicion entrada
+11:56:57:Itinerario 1 Fase de Metro Tiempo llegada 0:00:07
+11:57:14:Itinerario 1 Transicion salida
+11:57:17:Itinerario 1 Transicion salida
+11:57:20:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:23
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+12:07:33:Itinerario 2 Detector de aproximacion
+12:07:54:Itinerario 2 Transicion entrada
+12:07:57:Itinerario 2 Transicion entrada
+12:08:00:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+12:08:16:Itinerario 2 Transicion salida
+12:08:19:Itinerario 2 Transicion salida
+12:08:22:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:22
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+12:08:58:Itinerario 1 Detector de aproximacion
+12:09:03:Itinerario 1 Transicion entrada
+12:09:06:Itinerario 1 Transicion entrada
+12:09:09:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+12:09:22:Itinerario 1 Transicion salida
+12:09:25:Itinerario 1 Transicion salida
+12:09:28:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:19
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+12:19:51:Itinerario 2 Detector de presencia
+12:19:52:Itinerario 2 Transicion entrada
+12:19:55:Itinerario 2 Transicion entrada
+12:19:58:Itinerario 2 Fase de Metro Tiempo llegada 0:00:07
+12:20:13:Itinerario 2 Transicion salida
+12:20:16:Itinerario 2 Transicion salida
+12:20:19:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:21
+ANALISIS:[OK]Entrada por detector de presencia
+
+12:21:35:Itinerario 1 Detector de aproximacion
+12:21:40:Itinerario 1 Transicion entrada
+12:21:43:Itinerario 1 Transicion entrada
+12:21:46:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+12:22:00:Itinerario 1 Transicion salida
+12:22:03:Itinerario 1 Transicion salida
+12:22:06:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:20
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+12:32:21:Itinerario 2 Detector de aproximacion
+12:32:42:Itinerario 2 Transicion entrada
+12:32:45:Itinerario 2 Transicion entrada
+12:32:48:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+12:33:11:Itinerario 2 Transicion salida
+12:33:14:Itinerario 2 Transicion salida
+12:33:14:Itinerario 1 Detector de aproximacion
+12:33:17:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:29
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+12:33:23:Itinerario 1 Transicion entrada
+12:33:26:Itinerario 1 Transicion entrada
+12:33:29:Itinerario 1 Fase de Metro Tiempo llegada 0:00:15
+12:33:41:Itinerario 1 Transicion salida
+12:33:44:Itinerario 1 Transicion salida
+12:33:47:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:18
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+12:44:10:Itinerario 2 Detector de aproximacion
+12:44:31:Itinerario 2 Transicion entrada
+12:44:34:Itinerario 2 Transicion entrada
+12:44:37:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+12:44:54:Itinerario 2 Transicion salida
+12:44:57:Itinerario 2 Transicion salida
+12:45:00:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:23
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+12:45:44:Itinerario 1 Detector de aproximacion
+12:45:49:Itinerario 1 Transicion entrada
+12:45:52:Itinerario 1 Transicion entrada
+12:45:55:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+12:46:09:Itinerario 1 Transicion salida
+12:46:12:Itinerario 1 Transicion salida
+12:46:15:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:20
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+12:53:32:Itinerario 2 Detector de aproximacion
+12:53:53:Itinerario 2 Transicion entrada
+12:53:56:Itinerario 2 Transicion entrada
+12:53:59:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+12:54:17:Itinerario 2 Transicion salida
+12:54:20:Itinerario 2 Transicion salida
+12:54:23:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:24
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+12:57:09:Itinerario 1 Detector de aproximacion
+12:57:14:Itinerario 1 Transicion entrada
+12:57:17:Itinerario 1 Transicion entrada
+12:57:20:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+12:57:35:Itinerario 1 Transicion salida
+12:57:38:Itinerario 1 Transicion salida
+12:57:41:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:21
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+13:06:47:Itinerario 2 Detector de aproximacion
+13:07:08:Itinerario 2 Transicion entrada
+13:07:11:Itinerario 2 Transicion entrada
+13:07:14:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+13:07:35:Itinerario 2 Transicion salida
+13:07:38:Itinerario 2 Transicion salida
+13:07:41:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:27
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+13:09:33:Itinerario 1 Detector de aproximacion
+13:09:38:Itinerario 1 Transicion entrada
+13:09:41:Itinerario 1 Transicion entrada
+13:09:44:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+13:10:04:Itinerario 1 Transicion salida
+13:10:07:Itinerario 1 Transicion salida
+13:10:10:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:26
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+13:17:28:Itinerario 2 Detector de aproximacion
+13:17:49:Itinerario 2 Transicion entrada
+13:17:52:Itinerario 2 Transicion entrada
+13:17:55:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+13:18:13:Itinerario 2 Transicion salida
+13:18:16:Itinerario 2 Transicion salida
+13:18:19:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:24
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+13:21:19:Itinerario 1 Detector de aproximacion
+13:21:24:Itinerario 1 Transicion entrada
+13:21:27:Itinerario 1 Transicion entrada
+13:21:30:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+13:21:44:Itinerario 1 Transicion salida
+13:21:47:Itinerario 1 Transicion salida
+13:21:50:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:20
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+13:29:26:Itinerario 2 Detector de aproximacion
+13:29:47:Itinerario 2 Transicion entrada
+13:29:50:Itinerario 2 Transicion entrada
+13:29:53:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+13:30:08:Itinerario 2 Transicion salida
+13:30:11:Itinerario 2 Transicion salida
+13:30:14:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:21
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+13:33:10:Itinerario 1 Detector de aproximacion
+13:33:15:Itinerario 1 Transicion entrada
+13:33:18:Itinerario 1 Transicion entrada
+13:33:21:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+13:33:37:Itinerario 1 Transicion salida
+13:33:40:Itinerario 1 Transicion salida
+13:33:43:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:22
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+13:44:38:Itinerario 2 Detector de aproximacion
+13:44:59:Itinerario 2 Transicion entrada
+13:45:00:Itinerario 1 Detector de aproximacion
+13:45:02:Itinerario 2 Transicion entrada
+13:45:05:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+13:45:05:Itinerario 2 Cruce de linea
+13:45:24:Itinerario 1 Transicion salida
+13:45:27:Itinerario 1 Transicion salida
+13:45:30:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:12:09
+ANALISIS:[ERROR]Entrada por detector de aproximacion No detectado inicio de fase
+
+13:53:03:Itinerario 2 Transicion entrada
+13:53:06:Itinerario 2 Transicion entrada
+13:53:09:Itinerario 2 Fase de Metro Tiempo llegada 0:08:31
+13:53:28:Itinerario 2 Transicion salida
+13:53:31:Itinerario 2 Transicion salida
+13:53:34:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:25
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+13:56:58:Itinerario 1 Detector de aproximacion
+13:56:59:Itinerario 1 Transicion entrada
+13:57:02:Itinerario 1 Transicion entrada
+13:57:05:Itinerario 1 Fase de Metro Tiempo llegada 0:00:07
+13:57:23:Itinerario 1 Transicion salida
+13:57:26:Itinerario 1 Transicion salida
+13:57:29:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:24
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+14:07:05:Itinerario 2 Detector de aproximacion
+14:07:26:Itinerario 2 Transicion entrada
+14:07:29:Itinerario 2 Transicion entrada
+14:07:32:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+14:07:50:Itinerario 2 Transicion salida
+14:07:53:Itinerario 2 Transicion salida
+14:07:56:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:24
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+14:09:33:Itinerario 1 Detector de aproximacion
+14:09:38:Itinerario 1 Transicion entrada
+14:09:41:Itinerario 1 Transicion entrada
+14:09:44:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+14:09:57:Itinerario 1 Transicion salida
+14:10:00:Itinerario 1 Transicion salida
+14:10:03:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:19
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+14:19:07:Itinerario 2 Detector de aproximacion
+14:19:28:Itinerario 2 Transicion entrada
+14:19:31:Itinerario 2 Transicion entrada
+14:19:34:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+14:19:52:Itinerario 2 Transicion salida
+14:19:55:Itinerario 2 Transicion salida
+14:19:58:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:24
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+14:21:10:Itinerario 1 Detector de aproximacion
+14:21:15:Itinerario 1 Transicion entrada
+14:21:18:Itinerario 1 Transicion entrada
+14:21:21:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+14:21:35:Itinerario 1 Transicion salida
+14:21:38:Itinerario 1 Transicion salida
+14:21:41:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:20
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+14:31:50:Itinerario 2 Detector de aproximacion
+14:32:11:Itinerario 2 Transicion entrada
+14:32:14:Itinerario 2 Transicion entrada
+14:32:17:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+14:32:34:Itinerario 2 Transicion salida
+14:32:37:Itinerario 2 Transicion salida
+14:32:40:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:23
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+14:33:06:Itinerario 1 Detector de aproximacion
+14:33:11:Itinerario 1 Transicion entrada
+14:33:14:Itinerario 1 Transicion entrada
+14:33:17:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+14:33:31:Itinerario 1 Transicion salida
+14:33:34:Itinerario 1 Transicion salida
+14:33:37:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:20
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+14:44:58:Itinerario 2 Detector de aproximacion
+14:45:07:Itinerario 1 Detector de aproximacion
+14:45:12:Itinerario 1 Transicion entrada
+14:45:15:Itinerario 1 Transicion entrada
+14:45:18:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+14:45:18:Itinerario 1 Cruce de linea
+14:45:43:Itinerario 2 Transicion salida
+14:45:46:Itinerario 2 Transicion salida
+14:45:49:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:13:32
+ANALISIS:[ERROR]Entrada por detector de aproximacion No detectado inicio de fase
+
+14:53:48:Itinerario 2 Detector de aproximacion
+14:53:50:Itinerario 2 Transicion entrada
+14:53:53:Itinerario 2 Transicion entrada
+14:53:56:Itinerario 2 Fase de Metro Tiempo llegada 0:00:08
+14:54:31:Itinerario 2 Transicion salida
+14:54:34:Itinerario 2 Transicion salida
+14:54:37:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:41
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+14:57:23:Itinerario 1 Transicion entrada
+14:57:26:Itinerario 1 Transicion entrada
+14:57:29:Itinerario 1 Fase de Metro Tiempo llegada 0:12:22
+14:57:44:Itinerario 1 Transicion salida
+14:57:47:Itinerario 1 Transicion salida
+14:57:50:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:21
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+15:06:00:Itinerario 2 Detector de aproximacion
+15:06:21:Itinerario 2 Transicion entrada
+15:06:24:Itinerario 2 Transicion entrada
+15:06:27:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+15:06:46:Itinerario 2 Transicion salida
+15:06:49:Itinerario 2 Transicion salida
+15:06:52:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:25
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+15:08:56:Itinerario 1 Detector de aproximacion
+15:09:01:Itinerario 1 Transicion entrada
+15:09:04:Itinerario 1 Transicion entrada
+15:09:07:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+15:09:22:Itinerario 1 Transicion salida
+15:09:25:Itinerario 1 Transicion salida
+15:09:28:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:21
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+15:19:59:Itinerario 2 Detector de aproximacion
+15:20:20:Itinerario 2 Transicion entrada
+15:20:23:Itinerario 2 Transicion entrada
+15:20:26:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+15:20:44:Itinerario 2 Transicion salida
+15:20:47:Itinerario 2 Transicion salida
+15:20:50:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:24
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+15:21:00:Itinerario 1 Detector de aproximacion
+15:21:05:Itinerario 1 Transicion entrada
+15:21:08:Itinerario 1 Transicion entrada
+15:21:11:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+15:21:26:Itinerario 1 Transicion salida
+15:21:29:Itinerario 1 Transicion salida
+15:21:32:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:21
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+15:28:51:Itinerario 2 Detector de aproximacion
+15:29:12:Itinerario 2 Transicion entrada
+15:29:15:Itinerario 2 Transicion entrada
+15:29:18:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+15:29:35:Itinerario 2 Transicion salida
+15:29:38:Itinerario 2 Transicion salida
+15:29:41:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:23
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+15:33:10:Itinerario 1 Detector de aproximacion
+15:33:15:Itinerario 1 Transicion entrada
+15:33:18:Itinerario 1 Transicion entrada
+15:33:21:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+15:33:35:Itinerario 1 Transicion salida
+15:33:38:Itinerario 1 Transicion salida
+15:33:41:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:20
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+15:45:13:Itinerario 1 Detector de aproximacion
+15:45:18:Itinerario 1 Transicion entrada
+15:45:21:Itinerario 1 Transicion entrada
+15:45:24:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+15:45:28:Itinerario 2 Detector de aproximacion
+15:45:29:Itinerario 1 Cruce de linea
+15:46:13:Itinerario 2 Transicion salida
+15:46:16:Itinerario 2 Transicion salida
+15:46:19:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:17:01
+ANALISIS:[ERROR]Entrada por detector de aproximacion No detectado inicio de fase
+
+15:53:04:Itinerario 2 Detector de aproximacion
+15:53:25:Itinerario 2 Transicion entrada
+15:53:28:Itinerario 2 Transicion entrada
+15:53:31:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+15:53:50:Itinerario 2 Transicion salida
+15:53:53:Itinerario 2 Transicion salida
+15:53:56:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:25
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+15:57:24:Itinerario 1 Transicion entrada
+15:57:27:Itinerario 1 Transicion entrada
+15:57:30:Itinerario 1 Fase de Metro Tiempo llegada 0:12:17
+15:57:44:Itinerario 1 Transicion salida
+15:57:47:Itinerario 1 Transicion salida
+15:57:50:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:20
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+16:05:16:Itinerario 2 Detector de aproximacion
+16:05:37:Itinerario 2 Transicion entrada
+16:05:40:Itinerario 2 Transicion entrada
+16:05:43:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+16:06:02:Itinerario 2 Transicion salida
+16:06:05:Itinerario 2 Transicion salida
+16:06:08:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:25
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+16:09:00:Itinerario 1 Detector de aproximacion
+16:09:05:Itinerario 1 Transicion entrada
+16:09:08:Itinerario 1 Transicion entrada
+16:09:11:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+16:09:24:Itinerario 1 Transicion salida
+16:09:27:Itinerario 1 Transicion salida
+16:09:30:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:19
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+16:17:00:Itinerario 2 Detector de aproximacion
+16:17:21:Itinerario 2 Transicion entrada
+16:17:24:Itinerario 2 Transicion entrada
+16:17:27:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+16:17:46:Itinerario 2 Transicion salida
+16:17:49:Itinerario 2 Transicion salida
+16:17:52:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:25
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+16:21:18:Itinerario 1 Detector de aproximacion
+16:21:23:Itinerario 1 Transicion entrada
+16:21:26:Itinerario 1 Transicion entrada
+16:21:29:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+16:21:43:Itinerario 1 Transicion salida
+16:21:46:Itinerario 1 Transicion salida
+16:21:49:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:20
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+16:30:20:Itinerario 2 Detector de aproximacion
+16:30:41:Itinerario 2 Transicion entrada
+16:30:44:Itinerario 2 Transicion entrada
+16:30:47:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+16:31:04:Itinerario 2 Transicion salida
+16:31:07:Itinerario 2 Transicion salida
+16:31:10:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:23
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+16:33:03:Itinerario 1 Detector de aproximacion
+16:33:08:Itinerario 1 Transicion entrada
+16:33:11:Itinerario 1 Transicion entrada
+16:33:14:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+16:33:28:Itinerario 1 Transicion salida
+16:33:31:Itinerario 1 Transicion salida
+16:33:34:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:20
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+16:41:11:Itinerario 2 Detector de aproximacion
+16:41:32:Itinerario 2 Transicion entrada
+16:41:35:Itinerario 2 Transicion entrada
+16:41:38:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+16:42:00:Itinerario 2 Transicion salida
+16:42:03:Itinerario 2 Transicion salida
+16:42:06:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:28
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+16:45:18:Itinerario 1 Detector de aproximacion
+16:45:23:Itinerario 1 Transicion entrada
+16:45:26:Itinerario 1 Transicion entrada
+16:45:29:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+16:45:43:Itinerario 1 Transicion salida
+16:45:46:Itinerario 1 Transicion salida
+16:45:49:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:20
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+16:53:13:Itinerario 2 Detector de aproximacion
+16:53:34:Itinerario 2 Transicion entrada
+16:53:37:Itinerario 2 Transicion entrada
+16:53:40:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+16:54:01:Itinerario 2 Transicion salida
+16:54:04:Itinerario 2 Transicion salida
+16:54:07:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:27
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+16:57:27:Itinerario 1 Detector de aproximacion
+16:57:32:Itinerario 1 Transicion entrada
+16:57:35:Itinerario 1 Transicion entrada
+16:57:38:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+16:57:54:Itinerario 1 Transicion salida
+16:57:57:Itinerario 1 Transicion salida
+16:58:00:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:22
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+17:04:46:Itinerario 2 Detector de aproximacion
+17:05:07:Itinerario 2 Transicion entrada
+17:05:10:Itinerario 2 Transicion entrada
+17:05:13:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+17:05:31:Itinerario 2 Transicion salida
+17:05:34:Itinerario 2 Transicion salida
+17:05:37:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:24
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+17:09:07:Itinerario 1 Detector de aproximacion
+17:09:12:Itinerario 1 Transicion entrada
+17:09:15:Itinerario 1 Transicion entrada
+17:09:18:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+17:09:34:Itinerario 1 Transicion salida
+17:09:37:Itinerario 1 Transicion salida
+17:09:40:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:22
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+17:18:19:Itinerario 2 Detector de aproximacion
+17:18:40:Itinerario 2 Transicion entrada
+17:18:43:Itinerario 2 Transicion entrada
+17:18:46:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+17:19:04:Itinerario 2 Transicion salida
+17:19:07:Itinerario 2 Transicion salida
+17:19:10:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:24
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+17:20:59:Itinerario 1 Detector de aproximacion
+17:21:04:Itinerario 1 Transicion entrada
+17:21:07:Itinerario 1 Transicion entrada
+17:21:10:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+17:21:31:Itinerario 1 Transicion salida
+17:21:34:Itinerario 1 Transicion salida
+17:21:37:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:27
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+17:29:33:Itinerario 2 Detector de aproximacion
+17:29:54:Itinerario 2 Transicion entrada
+17:29:57:Itinerario 2 Transicion entrada
+17:30:00:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+17:30:21:Itinerario 2 Transicion salida
+17:30:24:Itinerario 2 Transicion salida
+17:30:27:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:27
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+17:33:20:Itinerario 1 Detector de aproximacion
+17:33:25:Itinerario 1 Transicion entrada
+17:33:28:Itinerario 1 Transicion entrada
+17:33:31:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+17:33:47:Itinerario 1 Transicion salida
+17:33:50:Itinerario 1 Transicion salida
+17:33:53:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:22
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+17:40:51:Itinerario 2 Detector de aproximacion
+17:41:12:Itinerario 2 Transicion entrada
+17:41:15:Itinerario 2 Transicion entrada
+17:41:18:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+17:41:37:Itinerario 2 Transicion salida
+17:41:40:Itinerario 2 Transicion salida
+17:41:43:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:25
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+17:45:11:Itinerario 1 Detector de aproximacion
+17:45:16:Itinerario 1 Transicion entrada
+17:45:19:Itinerario 1 Transicion entrada
+17:45:22:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+17:45:36:Itinerario 1 Transicion salida
+17:45:39:Itinerario 1 Transicion salida
+17:45:42:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:20
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+17:52:15:Itinerario 2 Detector de aproximacion
+17:52:36:Itinerario 2 Transicion entrada
+17:52:39:Itinerario 2 Transicion entrada
+17:52:42:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+17:52:58:Itinerario 2 Transicion salida
+17:53:01:Itinerario 2 Transicion salida
+17:53:04:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:22
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+17:57:21:Itinerario 1 Detector de aproximacion
+17:57:26:Itinerario 1 Transicion entrada
+17:57:29:Itinerario 1 Transicion entrada
+17:57:32:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+17:57:47:Itinerario 1 Transicion salida
+17:57:50:Itinerario 1 Transicion salida
+17:57:53:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:21
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+18:05:08:Itinerario 2 Detector de aproximacion
+18:05:29:Itinerario 2 Transicion entrada
+18:05:32:Itinerario 2 Transicion entrada
+18:05:35:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+18:05:58:Itinerario 2 Transicion salida
+18:06:01:Itinerario 2 Transicion salida
+18:06:04:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:29
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+18:08:18:Itinerario 1 Detector de aproximacion
+18:08:23:Itinerario 1 Transicion entrada
+18:08:26:Itinerario 1 Transicion entrada
+18:08:29:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+18:08:45:Itinerario 1 Transicion salida
+18:08:48:Itinerario 1 Transicion salida
+18:08:51:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:22
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+18:16:03:Itinerario 2 Detector de aproximacion
+18:16:24:Itinerario 2 Transicion entrada
+18:16:27:Itinerario 2 Transicion entrada
+18:16:30:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+18:16:49:Itinerario 2 Transicion salida
+18:16:52:Itinerario 2 Transicion salida
+18:16:55:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:25
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+18:21:15:Itinerario 1 Detector de aproximacion
+18:21:20:Itinerario 1 Transicion entrada
+18:21:23:Itinerario 1 Transicion entrada
+18:21:26:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+18:21:39:Itinerario 1 Transicion salida
+18:21:42:Itinerario 1 Transicion salida
+18:21:45:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:19
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+18:32:32:Itinerario 2 Detector de aproximacion
+18:32:53:Itinerario 2 Transicion entrada
+18:32:56:Itinerario 2 Transicion entrada
+18:32:59:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+18:33:14:Itinerario 1 Detector de aproximacion
+18:33:15:Itinerario 2 Transicion salida
+18:33:18:Itinerario 2 Transicion salida
+18:33:21:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:22
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+18:33:26:Itinerario 1 Transicion entrada
+18:33:29:Itinerario 1 Transicion entrada
+18:33:32:Itinerario 1 Fase de Metro Tiempo llegada 0:00:18
+18:33:43:Itinerario 1 Transicion salida
+18:33:46:Itinerario 1 Transicion salida
+18:33:49:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:17
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+18:42:33:Itinerario 2 Detector de aproximacion
+18:42:54:Itinerario 2 Transicion entrada
+18:42:57:Itinerario 2 Transicion entrada
+18:43:00:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+18:43:19:Itinerario 2 Transicion salida
+18:43:22:Itinerario 2 Transicion salida
+18:43:25:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:25
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+18:45:39:Itinerario 1 Detector de aproximacion
+18:45:44:Itinerario 1 Transicion entrada
+18:45:47:Itinerario 1 Transicion entrada
+18:45:50:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+18:46:05:Itinerario 1 Transicion salida
+18:46:08:Itinerario 1 Transicion salida
+18:46:11:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:21
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+18:55:41:Itinerario 2 Detector de aproximacion
+18:56:02:Itinerario 2 Transicion entrada
+18:56:05:Itinerario 2 Transicion entrada
+18:56:08:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+18:56:27:Itinerario 2 Transicion salida
+18:56:30:Itinerario 2 Transicion salida
+18:56:33:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:25
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+18:57:23:Itinerario 1 Detector de aproximacion
+18:57:24:Itinerario 1 Transicion entrada
+18:57:27:Itinerario 1 Transicion entrada
+18:57:30:Itinerario 1 Fase de Metro Tiempo llegada 0:00:07
+18:57:51:Itinerario 1 Transicion salida
+18:57:54:Itinerario 1 Transicion salida
+18:57:57:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:27
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+19:05:27:Itinerario 2 Detector de aproximacion
+19:05:48:Itinerario 2 Transicion entrada
+19:05:51:Itinerario 2 Transicion entrada
+19:05:54:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+19:06:10:Itinerario 2 Transicion salida
+19:06:13:Itinerario 2 Transicion salida
+19:06:16:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:22
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+19:08:49:Itinerario 1 Detector de aproximacion
+19:08:54:Itinerario 1 Transicion entrada
+19:08:57:Itinerario 1 Transicion entrada
+19:09:00:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+19:09:14:Itinerario 1 Transicion salida
+19:09:17:Itinerario 1 Transicion salida
+19:09:20:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:20
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+19:20:32:Itinerario 2 Detector de aproximacion
+19:20:53:Itinerario 2 Transicion entrada
+19:20:56:Itinerario 2 Transicion entrada
+19:20:59:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+19:21:17:Itinerario 2 Transicion salida
+19:21:20:Itinerario 2 Transicion salida
+19:21:23:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:24
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+19:21:31:Itinerario 1 Detector de aproximacion
+19:21:34:Itinerario 1 Transicion entrada
+19:21:37:Itinerario 1 Transicion entrada
+19:21:40:Itinerario 1 Fase de Metro Tiempo llegada 0:00:09
+19:21:59:Itinerario 1 Transicion salida
+19:22:02:Itinerario 1 Transicion salida
+19:22:05:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:25
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+19:29:28:Itinerario 2 Detector de aproximacion
+19:29:49:Itinerario 2 Transicion entrada
+19:29:52:Itinerario 2 Transicion entrada
+19:29:55:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+19:30:14:Itinerario 2 Transicion salida
+19:30:17:Itinerario 2 Transicion salida
+19:30:20:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:25
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+19:33:15:Itinerario 1 Detector de aproximacion
+19:33:20:Itinerario 1 Transicion entrada
+19:33:23:Itinerario 1 Transicion entrada
+19:33:26:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+19:33:40:Itinerario 1 Transicion salida
+19:33:43:Itinerario 1 Transicion salida
+19:33:46:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:20
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+19:42:43:Itinerario 2 Detector de aproximacion
+19:43:04:Itinerario 2 Transicion entrada
+19:43:07:Itinerario 2 Transicion entrada
+19:43:10:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+19:43:30:Itinerario 2 Transicion salida
+19:43:33:Itinerario 2 Transicion salida
+19:43:36:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:26
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+19:45:28:Itinerario 1 Detector de presencia
+19:45:29:Itinerario 1 Transicion entrada
+19:45:32:Itinerario 1 Transicion entrada
+19:45:35:Itinerario 1 Fase de Metro Tiempo llegada 0:00:07
+19:46:36:Itinerario 1 Transicion salida
+19:46:39:Itinerario 1 Transicion salida
+19:46:42:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:01:07
+ANALISIS:[OK]Entrada por detector de presencia
+
+19:56:34:Itinerario 2 Detector de aproximacion
+19:56:55:Itinerario 2 Transicion entrada
+19:56:58:Itinerario 2 Transicion entrada
+19:57:01:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+19:57:17:Itinerario 2 Transicion salida
+19:57:20:Itinerario 2 Transicion salida
+19:57:23:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:22
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+19:57:31:Itinerario 1 Detector de presencia
+19:57:32:Itinerario 1 Transicion entrada
+19:57:35:Itinerario 1 Transicion entrada
+19:57:38:Itinerario 1 Fase de Metro Tiempo llegada 0:00:07
+19:57:50:Itinerario 1 Transicion salida
+19:57:53:Itinerario 1 Transicion salida
+19:57:56:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:18
+ANALISIS:[OK]Entrada por detector de presencia
+
+20:06:18:Itinerario 2 Detector de aproximacion
+20:06:39:Itinerario 2 Transicion entrada
+20:06:42:Itinerario 2 Transicion entrada
+20:06:45:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+20:07:03:Itinerario 2 Transicion salida
+20:07:06:Itinerario 2 Transicion salida
+20:07:09:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:24
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+20:09:54:Itinerario 1 Detector de aproximacion
+20:09:59:Itinerario 1 Transicion entrada
+20:10:02:Itinerario 1 Transicion entrada
+20:10:05:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+20:10:19:Itinerario 1 Transicion salida
+20:10:22:Itinerario 1 Transicion salida
+20:10:25:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:20
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+20:17:43:Itinerario 2 Detector de aproximacion
+20:18:04:Itinerario 2 Transicion entrada
+20:18:07:Itinerario 2 Transicion entrada
+20:18:10:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+20:18:27:Itinerario 2 Transicion salida
+20:18:30:Itinerario 2 Transicion salida
+20:18:33:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:23
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+20:21:45:Itinerario 1 Detector de presencia
+20:21:46:Itinerario 1 Transicion entrada
+20:21:49:Itinerario 1 Transicion entrada
+20:21:52:Itinerario 1 Fase de Metro Tiempo llegada 0:00:07
+20:22:04:Itinerario 1 Transicion salida
+20:22:07:Itinerario 1 Transicion salida
+20:22:10:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:18
+ANALISIS:[OK]Entrada por detector de presencia
+
+20:33:39:Itinerario 1 Detector de presencia
+20:33:40:Itinerario 1 Transicion entrada
+20:33:43:Itinerario 1 Transicion entrada
+20:33:46:Itinerario 1 Fase de Metro Tiempo llegada 0:00:07
+20:33:49:Itinerario 2 Detector de aproximacion
+20:33:50:Itinerario 1 Cruce de linea
+20:34:34:Itinerario 2 Transicion salida
+20:34:37:Itinerario 2 Transicion salida
+20:34:40:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:16:30
+ANALISIS:[ERROR]Entrada por detector de aproximacion No detectado inicio de fase
+
+20:42:17:Itinerario 2 Detector de aproximacion
+20:42:38:Itinerario 2 Transicion entrada
+20:42:41:Itinerario 2 Transicion entrada
+20:42:44:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+20:43:03:Itinerario 2 Transicion salida
+20:43:06:Itinerario 2 Transicion salida
+20:43:09:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:25
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+20:49:38:Itinerario 1 Transicion entrada
+20:49:41:Itinerario 1 Transicion entrada
+20:49:44:Itinerario 1 Fase de Metro Tiempo llegada 0:16:05
+20:49:56:Itinerario 1 Transicion salida
+20:49:59:Itinerario 1 Transicion salida
+20:50:02:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:18
+ANALISIS:[OK]Entrada por detector de presencia
+
+20:53:52:Itinerario 1 Detector de presencia
+20:53:53:Itinerario 1 Transicion entrada
+20:53:56:Itinerario 1 Transicion entrada
+20:53:59:Itinerario 1 Fase de Metro Tiempo llegada 0:00:07
+20:54:08:Itinerario 2 Detector de aproximacion
+20:54:08:Itinerario 1 Cruce de linea
+20:54:56:Itinerario 2 Transicion salida
+20:54:59:Itinerario 2 Transicion salida
+20:55:02:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:12:18
+ANALISIS:[ERROR]Entrada por detector de aproximacion No detectado inicio de fase
+
+21:03:43:Itinerario 2 Detector de aproximacion
+21:04:04:Itinerario 2 Transicion entrada
+21:04:07:Itinerario 2 Transicion entrada
+21:04:10:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+21:04:28:Itinerario 2 Transicion salida
+21:04:31:Itinerario 2 Transicion salida
+21:04:34:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:24
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+21:05:29:Itinerario 1 Transicion entrada
+21:05:32:Itinerario 1 Transicion entrada
+21:05:35:Itinerario 1 Fase de Metro Tiempo llegada 0:11:43
+21:05:47:Itinerario 1 Transicion salida
+21:05:50:Itinerario 1 Transicion salida
+21:05:53:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:18
+ANALISIS:[OK]Entrada por detector de presencia
+
+21:14:19:Itinerario 2 Detector de aproximacion
+21:14:40:Itinerario 2 Transicion entrada
+21:14:43:Itinerario 2 Transicion entrada
+21:14:46:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+21:15:06:Itinerario 2 Transicion salida
+21:15:09:Itinerario 2 Transicion salida
+21:15:12:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:26
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+21:20:43:Itinerario 1 Detector de presencia
+21:20:44:Itinerario 1 Transicion entrada
+21:20:47:Itinerario 1 Transicion entrada
+21:20:50:Itinerario 1 Fase de Metro Tiempo llegada 0:00:07
+21:21:51:Itinerario 1 Transicion salida
+21:21:54:Itinerario 1 Transicion salida
+21:21:57:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:01:07
+ANALISIS:[OK]Entrada por detector de presencia
+
+21:24:05:Itinerario 2 Detector de aproximacion
+21:24:26:Itinerario 2 Transicion entrada
+21:24:29:Itinerario 2 Transicion entrada
+21:24:32:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+21:24:51:Itinerario 2 Transicion salida
+21:24:54:Itinerario 2 Transicion salida
+21:24:57:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:25
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+21:28:34:Itinerario 1 Detector de presencia
+21:28:35:Itinerario 1 Transicion entrada
+21:28:38:Itinerario 1 Transicion entrada
+21:28:41:Itinerario 1 Fase de Metro Tiempo llegada 0:00:07
+21:28:51:Itinerario 1 Transicion salida
+21:28:54:Itinerario 1 Transicion salida
+21:28:57:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:16
+ANALISIS:[OK]Entrada por detector de presencia
+
+21:38:09:Itinerario 2 Detector de aproximacion
+21:38:20:Itinerario 1 Detector de aproximacion
+21:38:25:Itinerario 1 Transicion entrada
+21:38:28:Itinerario 1 Transicion entrada
+21:38:31:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+21:38:31:Itinerario 1 Cruce de linea
+21:38:57:Itinerario 2 Transicion salida
+21:39:00:Itinerario 2 Transicion salida
+21:39:03:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:14:31
+ANALISIS:[ERROR]Entrada por detector de aproximacion No detectado inicio de fase
+
+21:50:11:Itinerario 2 Detector de aproximacion
+21:50:12:Itinerario 2 Transicion entrada
+21:50:15:Itinerario 2 Transicion entrada
+21:50:18:Itinerario 2 Fase de Metro Tiempo llegada 0:00:07
+21:50:57:Itinerario 2 Transicion salida
+21:51:00:Itinerario 2 Transicion salida
+21:51:03:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:45
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+21:55:37:Itinerario 1 Transicion entrada
+21:55:40:Itinerario 1 Transicion entrada
+21:55:43:Itinerario 1 Fase de Metro Tiempo llegada 0:17:23
+21:55:57:Itinerario 1 Transicion salida
+21:56:00:Itinerario 1 Transicion salida
+21:56:03:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:20
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+21:59:57:Itinerario 1 Detector de aproximacion
+22:00:02:Itinerario 1 Transicion entrada
+22:00:05:Itinerario 1 Transicion entrada
+22:00:08:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+22:00:23:Itinerario 1 Transicion salida
+22:00:26:Itinerario 1 Transicion salida
+22:00:29:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:21
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+22:02:23:Itinerario 2 Detector de aproximacion
+22:02:44:Itinerario 2 Transicion entrada
+22:02:47:Itinerario 2 Transicion entrada
+22:02:50:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+22:03:07:Itinerario 2 Transicion salida
+22:03:10:Itinerario 2 Transicion salida
+22:03:13:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:23
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+22:12:30:Itinerario 1 Detector de aproximacion
+22:12:35:Itinerario 1 Transicion entrada
+22:12:38:Itinerario 1 Transicion entrada
+22:12:41:Itinerario 1 Fase de Metro Tiempo llegada 0:00:11
+22:12:57:Itinerario 1 Transicion salida
+22:13:00:Itinerario 1 Transicion salida
+22:13:03:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:22
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+22:18:13:Itinerario 2 Detector de aproximacion
+22:18:34:Itinerario 2 Transicion entrada
+22:18:37:Itinerario 2 Transicion entrada
+22:18:40:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+22:19:00:Itinerario 2 Transicion salida
+22:19:03:Itinerario 2 Transicion salida
+22:19:06:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:26
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+22:33:08:Itinerario 1 Detector de presencia
+22:33:09:Itinerario 1 Transicion entrada
+22:33:12:Itinerario 1 Transicion entrada
+22:33:15:Itinerario 1 Fase de Metro Tiempo llegada 0:00:07
+22:33:25:Itinerario 1 Transicion salida
+22:33:28:Itinerario 1 Transicion salida
+22:33:31:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:16
+ANALISIS:[OK]Entrada por detector de presencia
+
+22:36:13:Itinerario 2 Detector de aproximacion
+22:36:34:Itinerario 2 Transicion entrada
+22:36:37:Itinerario 2 Transicion entrada
+22:36:40:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+22:36:59:Itinerario 2 Transicion salida
+22:37:02:Itinerario 2 Transicion salida
+22:37:05:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:25
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+22:49:23:Itinerario 1 Detector de presencia
+22:49:24:Itinerario 1 Transicion entrada
+22:49:27:Itinerario 1 Transicion entrada
+22:49:30:Itinerario 1 Fase de Metro Tiempo llegada 0:00:07
+22:49:40:Itinerario 1 Transicion salida
+22:49:43:Itinerario 1 Transicion salida
+22:49:46:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:16
+ANALISIS:[OK]Entrada por detector de presencia
+
+22:54:33:Itinerario 2 Detector de aproximacion
+22:54:54:Itinerario 2 Transicion entrada
+22:54:57:Itinerario 2 Transicion entrada
+22:55:00:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+22:55:19:Itinerario 2 Transicion salida
+22:55:22:Itinerario 2 Transicion salida
+22:55:25:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:25
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+23:06:45:Itinerario 1 Detector de presencia
+23:06:46:Itinerario 1 Transicion entrada
+23:06:49:Itinerario 1 Transicion entrada
+23:06:52:Itinerario 1 Fase de Metro Tiempo llegada 0:00:07
+23:07:03:Itinerario 1 Transicion salida
+23:07:06:Itinerario 1 Transicion salida
+23:07:09:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:17
+ANALISIS:[OK]Entrada por detector de presencia
+
+23:15:06:Itinerario 2 Detector de aproximacion
+23:15:27:Itinerario 2 Transicion entrada
+23:15:30:Itinerario 2 Transicion entrada
+23:15:33:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+23:15:50:Itinerario 2 Transicion salida
+23:15:53:Itinerario 2 Transicion salida
+23:15:56:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:23
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+23:21:58:Itinerario 2 Detector de aproximacion
+23:22:19:Itinerario 2 Transicion entrada
+23:22:22:Itinerario 2 Transicion entrada
+23:22:25:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+23:22:46:Itinerario 2 Transicion salida
+23:22:49:Itinerario 2 Transicion salida
+23:22:52:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:27
+ANALISIS:[OK]Entrada por detector de aproximacion
+
+23:24:55:Itinerario 1 Detector de presencia
+23:24:56:Itinerario 1 Transicion entrada
+23:24:59:Itinerario 1 Transicion entrada
+23:25:02:Itinerario 1 Fase de Metro Tiempo llegada 0:00:07
+23:25:13:Itinerario 1 Transicion salida
+23:25:16:Itinerario 1 Transicion salida
+23:25:19:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:00:17
+ANALISIS:[OK]Entrada por detector de presencia
+
+23:34:35:Itinerario 1 Detector de presencia
+23:34:36:Itinerario 1 Transicion entrada
+23:34:39:Itinerario 1 Transicion entrada
+23:34:42:Itinerario 1 Fase de Metro Tiempo llegada 0:00:07
+23:35:43:Itinerario 1 Transicion salida
+23:35:46:Itinerario 1 Transicion salida
+23:35:49:Itinerario 1 Fin itinerario Tiempo de fase de metro 0:01:07
+ANALISIS:[OK]Entrada por detector de presencia
+
+23:45:23:Itinerario 2 Detector de aproximacion
+23:45:44:Itinerario 2 Transicion entrada
+23:45:47:Itinerario 2 Transicion entrada
+23:45:50:Itinerario 2 Fase de Metro Tiempo llegada 0:00:27
+23:46:13:Itinerario 2 Transicion salida
+23:46:16:Itinerario 2 Transicion salida
+23:46:19:Itinerario 2 Fin itinerario Tiempo de fase de metro 0:00:29
+ANALISIS:[OK]Entrada por detector de aproximacion
+
