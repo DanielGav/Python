@@ -208,10 +208,59 @@ def get_huelva():
     csvfile.close()
     target.close()
 
+def get_localidad(archivo_localidad, resultado, home):
 
+    csvfile = open(archivo_localidad, 'rb')
+    entrada = csv.reader(csvfile, delimiter=';')
+
+    target = open(resultado, 'a')
+    salida = csv.writer(target, delimiter=';')
+
+    home_coord = home
+
+    for reg in entrada:
+        codigo = str(reg[0])
+        codigo = codigo.strip()
+        print "codigo:%s" % codigo
+
+        ciudad = str(reg[1])
+        ciudad_2 = ciudad.strip()
+        ciudad_sin_tildes = ciudad_2
+        ciudad_final = ciudad_sin_tildes.replace(' ', '+')
+        print "ciudad:%s" % ciudad_final
+
+        provincia = str(reg[2])
+        provincia_final = provincia.strip()
+        print "provincia:%s" % provincia_final
+
+        direccion = ciudad_final + "," + provincia_final
+        print "direccion:%s" % direccion
+
+        tiempo = get_tiempo_recorrido(home_coord, direccion)
+        print "tiempo:%s" % tiempo
+
+        salida.writerow([codigo, ciudad_2, provincia, tiempo])
+
+    csvfile.close()
+    target.close()
+
+
+def get_malaga():
+    archivo_localidad = "loc_malaga.csv"
+    resultado = "ResultsMalagaDesdeCadiz.csv"
+    home = "San+Fernando,Cadiz"
+    get_localidad(archivo_localidad, resultado, home)
+
+
+def get_cordoba():
+    archivo_localidad = "loc_cordoba.csv"
+    resultado = "ResultsCordobaDesdeSevilla.csv"
+    home = "Mairena+del+Aljarafe,Sevilla"
+    get_localidad(archivo_localidad, resultado, home)
 
 def main():
-    get_centros_sevilla()
+    get_cordoba()
+    #get_centros_sevilla()
     #get_cadiz()
     #get_sevilla()
 
